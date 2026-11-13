@@ -9,18 +9,18 @@ Spezifikationen
 
 App
 
-1. Projektbeschreibung 10.12.2026
+1. Projektbeschreibung 17.12.2026
     - Spielideen
     - Ziel des Spiels
     - Spielprinzip
 
-2. Story Map 10.12.2026
+2. Story Map 17.12.2026
     - Übersicht aller Features und Abläufe
     - Unterteilung in MustHave, Should Have and Nice to Have
     - notizen was der User sieht und wie er es nutzen kann, zu jeder Stage
 
 
-3. Mockups 10.12.2026
+3. Mockups 17.12.2026
     - Hauptmenü
     - Spielbildschirm
     - Pause
